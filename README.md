@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Anus Tauni</h1>
 <h3 align="center">A passionate Web Developer from Pakistan</h3>
-<img align="right" alt="coding" width="450" 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anastauni12671&label=Profile%20views&color=0e75b6&style=flat" alt="anastauni12671" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anastauni12671" alt="anastauni12671" /></a> </p>
