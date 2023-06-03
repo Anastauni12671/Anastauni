@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Anus Tauni</h1>
 <h3 align="center">A passionate Web Developer from Pakistan</h3>
-<img align="right" alt="coding" width="450" scr="https://images.search.yahoo.com/images/view;_ylt=AwrFNlM_lXtk_iUFh3CJzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzVlN2YzNGE4OGJmZTQwZmFjYjc4NjExNWMzODRmZjRjBGdwb3MDMzMEaXQDYmluZw--?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Danimated%2Bcoding%2Bgif%26type%3DE210US91215G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D33&w=680&h=428&imgurl=i.pinimg.com%2Foriginals%2F54%2Fe3%2F7d%2F54e37d8074ebcde1d96c77d7b2a7f310.gif&rurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F126663808259167697%2F&size=1036.9KB&p=animated+coding+gif&oid=5e7f34a88bfe40facb786115c384ff4c&fr2=piv-web&fr=mcafee&tt=Pin+by+Tyress+White+on+Coding+Animations+%7C+Motion+design+animation+...&b=0&ni=21&no=33&ts=&tab=organic&sigr=DEC1wiqV1h.3&sigb=vyVyBhIAyGfT&sigi=t0Ct7aHXzzHG&sigt=m.TkrA3j6u2E&.crumb=xtRHWdS61dn&fr=mcafee&fr2=piv-web&type=E210US91215G0">
-
+<img align="right" alt="coding" width="450" 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anastauni12671&label=Profile%20views&color=0e75b6&style=flat" alt="anastauni12671" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anastauni12671" alt="anastauni12671" /></a> </p>
